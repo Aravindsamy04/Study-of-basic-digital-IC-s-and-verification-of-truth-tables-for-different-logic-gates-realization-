@@ -78,12 +78,17 @@ Developed by: ARAVIND SAMY .P
 RegisterNumber: 212222230011
 */
 ```
+
 Logic symbol & Truthtable:
 ![TRUTHTABLE](https://user-images.githubusercontent.com/113497037/231695202-559c3a59-c8b9-45b0-9869-bc824cea5d1e.jpg)
+
 
 Output:
 ![logic gate](https://user-images.githubusercontent.com/113497037/231695279-591b5f4e-39bf-444a-8770-d34f915356ce.jpg)
 
 
+
+
 Result:
+
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
